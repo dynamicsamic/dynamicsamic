@@ -12,13 +12,13 @@ class Pythonista:
     def greet(self):
         print(
             f"Hi! My name is {self.name}, I'm a {self.position}. "
-            f"I'm {self.attitude} to learn something new about Python. "
-            f"My current status: {self.status}"
+            f"I'm {self.attitude} to learn something new in "
+            f"the world of Python. My current status: {self.status}."
         )
 
 
 dynamicsamic = Pythonista(
-    "Sam", "Hobby developer" "eager", "switching career to tech"
+    "Sam", "Hobby developer", "eager", "switching career to tech"
 )
 dynamicsamic.greet()
 ```
