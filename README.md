@@ -18,7 +18,7 @@ class Pythonista:
 
 
 dynamicsamic = Pythonista(
-    "Sam", "Hobby developer", "eager", "switching career to tech"
+    "Sam", "Hobby Python developer", "eager", "switching career to tech"
 )
 dynamicsamic.greet()
 ```
