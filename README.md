@@ -1,24 +1,28 @@
-```python
-from dataclasses import dataclass
+## Hi! I'm Sam!
+Self-taught Python developer with experience in building Telegram bots and web backends.
 
+### I build things with:
+* Aiogram
+* SQLAlchemy
+* Django (Django REST framework)
+* Django-Ninja
 
-@dataclass
-class Pythonista:
-    name: str
-    position: str
-    attitude: str
-    status: str
+### Tools that I use:
+* Git
+* Docker
+* Pytest
+* VSCode
 
-    def greet(self):
-        print(
-            f"Hi! My name is {self.name}, I'm a {self.position}. "
-            f"I'm {self.attitude} to learn something new in "
-            f"the world of Python. My current status: {self.status}."
-        )
+### Current project I work on:
+* [BudgetBot](https://github.com/dynamicsamic/dynamicsamic/budget_bot) - Telegram bot that let's you control your budget while messaging with your friends
 
+### Things I want to build next:
+* FirstAidKit - Telegram bot that helps manage medicine in your house
+* Personal website with Remix framework
 
-dynamicsamic = Pythonista(
-    "Sam", "Hobby Python developer", "eager", "switching career to tech"
-)
-dynamicsamic.greet()
-```
+### :books: The book I currently read:
+* Effective Python, Second Edition by Brett Slatkin
+
+### 📫 How to reach me:
+* [Telegram](https://t.me/dynamicsamic/)
+* [Email](mailto:mirabyansr@gmail.com)
