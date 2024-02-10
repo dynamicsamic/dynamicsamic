@@ -21,7 +21,7 @@ Self-taught Python developer with experience in building Telegram bots and web b
 * Personal website with Remix framework
 
 ### :books: The book I currently read:
-* Effective Python, Second Edition by Brett Slatkin
+* Clean code in Python, Mariano Anaya
 
 ### 📫 How to reach me:
 * [Telegram](https://t.me/dynamicsamic/)
