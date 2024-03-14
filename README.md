@@ -23,6 +23,9 @@ Self-taught Python developer with experience in building Telegram bots and web b
 ### :books: The book I currently read:
 * Clean code in Python, Mariano Anaya
 
+### :bookmark: Courses I'm currently subscribed to:
+* [Data Analyst Bootcamp for Beginners](https://youtu.be/PSNXoAs2FtQ?si=sCCUbOhcYtGKx478)
+
 ### 📫 How to reach me:
 * [Telegram](https://t.me/dynamicsamic/)
 * [Email](mailto:mirabyansr@gmail.com)
