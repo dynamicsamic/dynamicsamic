@@ -4,6 +4,7 @@ Self-taught Python developer with experience in building Telegram bots and web b
 ### 💫 I build things with:
 * Aiogram
 * SQLAlchemy
+* FastAPI
 * Django (Django REST framework)
 * Django-Ninja
 
@@ -21,7 +22,7 @@ Self-taught Python developer with experience in building Telegram bots and web b
 * FirstAidKit - Telegram bot that helps manage medicine in your house
 
 ### 📚 The book I currently read:
-* A Common Sense Guide to Data Structures and Algorithms, Jay Wengrow
+* Microservice APIs, Jose Haro Peralta
 
 ### 🔖 Courses I'm currently subscribed to:
 * [freeCodeCamp's Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design)
