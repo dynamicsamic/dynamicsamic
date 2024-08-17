@@ -15,8 +15,7 @@ Self-taught Python developer with experience in building Telegram bots and web b
 * VSCode
 
 ### 🔍 Things I currently work on:
-* [fData](https://github.com/dynamicsamic/dynamicsamic/fdata) - website with Formula 1 related data build with Django
-* [BudgetBot](https://github.com/dynamicsamic/dynamicsamic/budget_bot) - Telegram bot that let's you control your budget while messaging with your friends
+* [Todo](https://github.com/dynamicsamic/todo) - basic asynchronous CRUD todo application based on Quart and Asyncpg
 
 ### 🤔 Things I want to build next:
 * FirstAidKit - Telegram bot that helps manage medicine in your house
@@ -25,8 +24,7 @@ Self-taught Python developer with experience in building Telegram bots and web b
 * Microservice APIs, Jose Haro Peralta
 
 ### 🔖 Courses I'm currently subscribed to:
-* [freeCodeCamp's Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design)
-* [freeCodeCamp's JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8)
+* [freeCodeCamp's Relational Database Course](https://www.freecodecamp.org/learn/relational-database/build-a-world-cup-database-project/build-a-world-cup-database)
 
 ### 📫 How to reach me:
 * [Telegram](https://t.me/dynamicsamic/)
