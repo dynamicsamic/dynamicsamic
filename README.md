@@ -6,7 +6,8 @@ Self-taught Python developer with experience in building Telegram bots and web b
 * SQLAlchemy
 * FastAPI
 * Django (Django REST framework, Django-Ninja)
-* Starlite
+* Quart
+* Litestar
 
 ### 🧰 Tools that I use:
 * Git
