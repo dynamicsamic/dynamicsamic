@@ -5,8 +5,8 @@ Self-taught Python developer with experience in building Telegram bots and web b
 * Aiogram
 * SQLAlchemy
 * FastAPI
-* Django (Django REST framework)
-* Django-Ninja
+* Django (Django REST framework, Django-Ninja)
+* Starlite
 
 ### 🧰 Tools that I use:
 * Git
@@ -15,16 +15,16 @@ Self-taught Python developer with experience in building Telegram bots and web b
 * VSCode
 
 ### 🔍 Things I currently work on:
-* [Todo](https://github.com/dynamicsamic/todo) - basic asynchronous CRUD todo application based on Quart and Asyncpg
+* [FirstAidKit](https://github.com/dynamicsamic/FirstAidKit) - application that helps you manage your medications 
 
 ### 🤔 Things I want to build next:
-* FirstAidKit - Telegram bot that helps manage medicine in your house
+* Chat application based on websockets
 
 ### 📚 The book I currently read:
 * Microservice APIs, Jose Haro Peralta
 
 ### 🔖 Courses I'm currently subscribed to:
-* [freeCodeCamp's Relational Database Course](https://www.freecodecamp.org/learn/relational-database/build-a-world-cup-database-project/build-a-world-cup-database)
+* [freeCodeCamp's Relational Database Course](https://www.freecodecamp.org/learn/relational-database/build-a-salon-appointment-scheduler-project/build-a-salon-appointment-scheduler)
 
 ### 📫 How to reach me:
 * [Telegram](https://t.me/dynamicsamic/)
