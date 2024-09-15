@@ -23,10 +23,14 @@ Self-taught Python developer with experience in building Telegram bots and web b
 
 ### 📚 The book I currently read:
 * Microservice APIs, Jose Haro Peralta
+* Python Concurrency with asyncio, Matthew Fowler
 
 ### 🔖 Courses I'm currently subscribed to:
-* [freeCodeCamp's Relational Database Course](https://www.freecodecamp.org/learn/relational-database/build-a-salon-appointment-scheduler-project/build-a-salon-appointment-scheduler)
+* [freeCodeCamp's Scientific Computing With Python](https://www.freecodecamp.org/learn/scientific-computing-with-python)
 
 ### 📫 How to reach me:
 * [Telegram](https://t.me/dynamicsamic/)
 * [Email](mailto:mirabyansr@gmail.com)
+
+### FreeCodeCamp Points
+![freeCodeCamp points](https://img.shields.io/freecodecamp/points/dynamicsamic)
