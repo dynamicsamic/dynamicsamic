@@ -22,11 +22,10 @@ Self-taught Python developer with experience in building Telegram bots and web b
 * Chat application based on websockets
 
 ### 📚 The book I currently read:
-* Microservice APIs, Jose Haro Peralta
-* Python Concurrency with asyncio, Matthew Fowler
+* Learning SQL, Alan Beaulieu
 
 ### 🔖 Courses I'm currently subscribed to:
-* [freeCodeCamp's Scientific Computing With Python](https://www.freecodecamp.org/learn/scientific-computing-with-python)
+* [Data Analysis with Pandas by Stepik](https://stepik.org/course/187506)
 
 ### 📫 How to reach me:
 * [Telegram](https://t.me/dynamicsamic/)
